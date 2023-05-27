@@ -1,12 +1,12 @@
 # tennis
 
-Tennis but with janky physics. Made using Three.js.
+Tennis but with weird physics. Made using Three.js.
 
 ## Demo:
-https://leslieyip02.github.io/tennis/
+https://6471d087ce747362a53ac624--comforting-florentine-9d5cc2.netlify.app/
 
 ## Controls:
-- R            - Reset
+- R            - Start/Reset
 
 **Player 1:**
 - W            - Up
